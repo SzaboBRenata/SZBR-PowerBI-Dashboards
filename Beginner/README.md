@@ -2,7 +2,7 @@ Power BI – Inspection Analysis
 
 Project overview
 
-	My first Power BI beginner project.
+	My Power BI project.
 
 Tools
 
